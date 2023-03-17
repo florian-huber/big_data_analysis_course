@@ -5,6 +5,7 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
+  - requests
   - spyder>=5.*
   - scikit-learn
   - seaborn

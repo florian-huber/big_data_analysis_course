@@ -1,0 +1,13 @@
+name: big_data
+dependencies:
+  - python=3.9
+  - jupyter
+  - matplotlib
+  - numpy
+  - opencv-python
+  - pandas
+  - spyder>=5.*
+  - scikit-learn
+  - seaborn
+  - tqdm
+  - pytest

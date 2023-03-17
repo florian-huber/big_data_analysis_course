@@ -12,4 +12,5 @@ dependencies:
   - tqdm
   - pytest
   - pip:
+    - beautifulsoup4
     - opencv-python

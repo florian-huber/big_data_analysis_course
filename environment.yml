@@ -14,3 +14,4 @@ dependencies:
   - pip:
     - beautifulsoup4
     - opencv-python
+    - psycopg2

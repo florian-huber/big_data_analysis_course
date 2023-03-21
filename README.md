@@ -1,2 +1,2 @@
-# big_data_analysis_course
-Course on big data analysis (code material and environment)
+# Material and tests for "Big Data Analysis" course
+Course on big data analysis (code material and environment).

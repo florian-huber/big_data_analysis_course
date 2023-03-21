@@ -3,7 +3,7 @@ Course on big data analysis (code material and environment).
 
 
 ## Create new environment for this course (recommended)
-It is recommended to create e a new environment for this course with many Python libraries that we will use in the Live Coding sessions. You can simply download the `environment.yml` file in this repository, or clone the repository using:
+It is recommended to create a new environment for this course with many Python libraries that we will use in the Live Coding sessions. You can simply download the `environment.yml` file in this repository, or clone the repository using:
 ```
 git clone https://github.com/florian-huber/big_data_analysis_course.git
 ```

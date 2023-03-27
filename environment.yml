@@ -2,18 +2,18 @@ name: big_data
 dependencies:
   - python=3.9
   - jupyter
-  - matplotlib
   - numpy
   - pandas
   - pip
   - requests
-  - spyder>=5.*
   - scikit-learn
   - seaborn
   - tqdm
   - pytest
   - pip:
     - beautifulsoup4
+    - matplotlib
     - opencv-python
     - pymongo
     - psycopg2
+    - spyder>=5.*

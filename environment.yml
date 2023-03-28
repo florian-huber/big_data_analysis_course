@@ -4,7 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9
-  - jupyter
+  - numba
   - numpy
   - pandas
   - pip
@@ -15,6 +15,7 @@ dependencies:
   - pytest
   - pip:
     - beautifulsoup4
+    - jupyter
     - matplotlib
     - opencv-python
     - pymongo

@@ -20,5 +20,6 @@ dependencies:
     - opencv-python
     - pymongo
     - psycopg2
+    - scipy
     - spyder>=5.*
     - tensorflow

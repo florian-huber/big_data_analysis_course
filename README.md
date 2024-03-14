@@ -11,4 +11,4 @@ Then, in the folder with the `environment.yml` file simply run:
 ```
 conda env create -f environment.yml
 ```
-This should create a Python 3.9 environment with the packages listed in the yaml-file.
+This should create a Python 3.10 environment with the packages listed in the yaml-file.

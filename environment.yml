@@ -8,9 +8,11 @@ dependencies:
   - numpy
   - pandas
   - pip
+  - pytorch
   - requests
   - scikit-learn
   - seaborn
+  - torchvision
   - tqdm
   - pytest
   - pip:
@@ -21,4 +23,3 @@ dependencies:
     - psycopg2
     - scipy
     - spyder>=5.*
-    - tensorflow

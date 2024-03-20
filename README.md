@@ -15,15 +15,30 @@ conda env create -f environment.yml
 This should create a Python 3.10 environment with the packages listed in the yaml-file.
 
 
+## Basic structure of the course
+
+- Introduction (Big Data, Data Engineering)
+- (Data) Generators
+- Distance and Similarity Measures
+- Databases (SQL, RDBMS)
+- Sparse Data
+- Search algorithms (beyond linear search)
+- Databases II (no SQL, graph databases)
+- Data Lake, Data Warehouse
+- MLOps
+- Big Data Infrastructures (Hadoop, Spark)
+
+
 ## Tools used in the course
 Numerous tools (or: libraries) will be used throughout this course.
-1. Python libraries:
+
+#### 1. Python libraries:
 - The classics: Pandas, Numpy, Scipy, Matplotlib etc.
 - For image handling: OpenCV
 - For deep learning: PyTorch
 - For databases: sqlite, annoy
 
-2. Other tools:
+#### 2. Other tools:
 - SQL (sqlite, postgres)
 - neo4j
 - Spark 

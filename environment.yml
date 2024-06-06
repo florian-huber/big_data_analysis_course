@@ -10,7 +10,7 @@ dependencies:
   - pip
   - pytorch
   - scikit-learn
-  - torchvision
+  - torchvision>=0.17
   - tqdm
   - pytest
   - pip:
